@@ -9,6 +9,8 @@ Sharp, spine-like structures, or stingers, appear across nature in creatures as 
 
 So why do all stingers posses this shape across taxonomical lineages regardless of organismal size? In 2024, Quan et al. (PNAS) argued it’s down to evolutionary selection pressures favouring efficient penetration into soft tissues. But here’s the twist: if one observes a newly formed stinger that has never been used, it does not necessarily have the universal tip shape! But observe it again at a later stage in the organism’s life, it would be found to posses the paraboloid tip profile. And observe it again later - no surprises - another blunted paraboloid with the same mathematical expression! The mechanism at play here is one that we all know, but are rarely aware of: random mechanical wear. To explore this idea, we used pencils as biomimetic stingers, exposing them to stochastic collisions and vibrations. What we found was that sequential weathering of material progresses in a way such that any conical object will eventually have its tip worn to the most stable shape - the paraboloid. The reason for its universality is neither biological function nor evolutionary optimisation, it is merely the commonality of the underlying physical phenomena - material removal by inevitable wear.
 
+[!stages of evolution of the pencil tip](./images/pillars.png)
+
 # The story
 
 [PDF](./pointyThings_SciComm_summary.pdf)
