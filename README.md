@@ -12,5 +12,7 @@ SciComm resources accompanying ***"The geometry of Nature's stingers is universa
 
 ## Contact
 Kaare H. Jensen, Department of Physics, Technical University of Denmark
+
 Email: khjensen@fysik.dtu.dk 
+
 Phone: +45 2231 5241
