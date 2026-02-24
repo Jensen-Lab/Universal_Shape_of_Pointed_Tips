@@ -7,4 +7,6 @@ SciComm resources accompanying "The geometry of Nature's stingers is universal d
 
 [Summary: PDF](./pointyThings_SciComm_summary.pdf)
 
+[Images](./images/)
+
 
