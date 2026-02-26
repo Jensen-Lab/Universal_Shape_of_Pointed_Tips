@@ -67,9 +67,9 @@ audibly rattle around, and took merely 20k steps to start conforming to the expr
 paraboloid.
 
 <p align="center">
-  <img src="./images/sharpTip.png" width=30%/>
-  <img src="./images/universalTip.png" width=30%/>
-  <img src="./images/damagedTip.jpg" width=30%/>
+  <img src="./images/sharpTip.png" width=320px/>
+  <img src="./images/universalTip.png" width=320px/>
+  <img src="./images/damagedTip.jpg" width=320px/>
 </p>
 
 The relation between form and function has long inspired scientists from various disciplines. And it
