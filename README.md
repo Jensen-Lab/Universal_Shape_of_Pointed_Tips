@@ -99,7 +99,7 @@ shaping form in Nature than adaptive narratives alone would imply.
 
 ### Image Credits
 + <img src="./images/Gennis.JPG" width=100px/>: Rose Prickes ("Gennis.JPG") - Sabrina Gennis, Technical University of Denmark
-+ All other images: John Sebastian, Technical University of Denmark
++ **All other images**: John Sebastian, Technical University of Denmark
 
 [Videos](./videos/)
 
