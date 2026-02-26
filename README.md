@@ -85,6 +85,7 @@ shaping form in Nature than adaptive narratives alone would imply.
 # Media
 [Images](./images/)
 
+[Videos](./videos/)
 
 ## Contact
 + Kaare H. Jensen, Department of Physics, Technical University of Denmark
