@@ -38,6 +38,7 @@ shapes where piercing outcompetes buckling. Then, of all suitable shapes, why do
 universally possess the parabolic profile or n ≈ 2? If evolutionary selection is at play, are stingers ‘born’
 with this shape?
 
+
 Coming from fluid mechanics, this was not the first time we encountered parabolic tip shapes in the
 literature. For example, the tip of icicles which are shaped by the physics of melting[2], the apex of a
 cylinder of sugar melting in a tank of water shaped by flow driven by dissolution[3], are both paraboloid.
@@ -50,6 +51,11 @@ These newly minted stinger tips were sharp “spinose" cones, whereas the used s
 of the universal parabolic geometry. This observation affirmed our hypothesis that the universality of
 stinger shapes stem not from a biological driver, rather, it is simply geometry and mechanics at play.
 
+<p align="center">
+  <img src="./images/experimentStrobo.png" height=480px/>
+  <img src="./images/evolutionOfTip.jpg" height=480px/>
+</p>
+
 To validate our idea, we used pencil tips as stand-ins for their biological counterparts, simulating
 mechanical interactions by placing them on a vibrating plate, allowing them to collide with one another
 stochastically. After tracking the change in their geometries for about four and a half hours, we found that
@@ -59,6 +65,12 @@ activity. In addition to control experiments in the lab, we were amused enough t
 in a little box and carry it around in our pockets as we’d walk around for several days! The pencils would
 audibly rattle around, and took merely 20k steps to start conforming to the expression for the universal
 paraboloid.
+
+<p align="center">
+  <img src="./images/sharpTip.png" width=30%/>
+  <img src="./images/universalTip.png" width=30%/>
+  <img src="./images/damagedTip.jpg" width=30%/>
+</p>
 
 The relation between form and function has long inspired scientists from various disciplines. And it
 is quite compelling to take a functional view of surprising commonalities in Nature. However, the forma-
@@ -84,6 +96,10 @@ shaping form in Nature than adaptive narratives alone would imply.
 
 # Media
 [Images](./images/)
+
+### Image Credits
++ <img src="./images/Gennis.JPG" width=100px/>: Rose Prickes ("Gennis.JPG") - Sabrina Gennis, Technical University of Denmark
++ All other images: John Sebastian, Technical University of Denmark
 
 [Videos](./videos/)
 
