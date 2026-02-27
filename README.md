@@ -4,6 +4,11 @@
 
 ***"The geometry of Nature's stingers is universal due to stochastic mechanical wear", John Sebastian and Kaare H Jensen, PNAS 2026***.
 
+<p align="center">
+  <img src="./images/concept_illustration_3.png" width=960px/>
+</p>
+  
+
 # Summary
 📰 New findings from our lab!
 
@@ -106,8 +111,10 @@ shaping form in Nature than adaptive narratives alone would imply.
 [Images](https://github.com/Jensen-Lab/Universal_Shape_of_Pointed_Tips/tree/main/images)
 
 ### Image Credits
++ **Conceptual Illustrations**: John Sebastian, Technical University of Denmark
 + <img src="./images/Gennis.JPG" width=64px/>: Rose Prickes ("Gennis.JPG") - Sabrina Gennis, Technical University of Denmark
-+ **All other images**: John Sebastian, Technical University of Denmark
++ **All other images/photographs**: John Sebastian, Technical University of Denmark
+
 
 [Videos](https://github.com/Jensen-Lab/Universal_Shape_of_Pointed_Tips/tree/main/videos)
 
