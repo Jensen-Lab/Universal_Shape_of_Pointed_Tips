@@ -103,17 +103,15 @@ shaping form in Nature than adaptive narratives alone would imply.
 
 # Media
 
-[Images](https://media.githubusercontent.com/media/jensen-lab/jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/images)
+[Images](https://github.com/Jensen-Lab/Universal_Shape_of_Pointed_Tips/tree/main/images)
 
 ### Image Credits
 + <img src="./images/Gennis.JPG" width=100px/>: Rose Prickes ("Gennis.JPG") - Sabrina Gennis, Technical University of Denmark
 + **All other images**: John Sebastian, Technical University of Denmark
 
-[Videos](https://media.githubusercontent.com/media/jensen-lab/jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/videos)
+[Videos](https://github.com/Jensen-Lab/Universal_Shape_of_Pointed_Tips/tree/main/videos)
 
-<video width="320" height="240" controls>
-  <source src="https://media.githubusercontent.com/media/jensen-lab/jensen-lab.github.io/Universal_Shape_of_Pointed_Tips/videos/MovieS1.mp4" type="video/mp4">
-</video>
+
 
 
 
