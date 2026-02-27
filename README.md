@@ -111,7 +111,9 @@ shaping form in Nature than adaptive narratives alone would imply.
 
 [Videos](https://github.com/Jensen-Lab/Universal_Shape_of_Pointed_Tips/tree/main/videos)
 
-
+<p align="center">
+  <img src="./videos/pencil_gladiators.gif" width=240px/>
+</p>
 
 
 
