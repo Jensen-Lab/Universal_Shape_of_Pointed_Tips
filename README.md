@@ -81,7 +81,6 @@ in biomimetics and suggests that temporal stochastic processes may play a more f
 shaping form in Nature than adaptive narratives alone would imply.
 
 
-[PDF](./pointyThings_SciComm_summary.pdf)
 
 ## References
 
