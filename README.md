@@ -70,7 +70,7 @@ mechanical interactions by placing them on a vibrating plate, allowing them to c
 stochastically. After tracking the change in their geometries for about four and a half hours, we found that
 pencils of different grades (that is, with different material properties) and of different initial shapes (the tip
 does not have to be well-sharpened, or could even be broken) all morphed over a few hours of collisional
-activity. In addition to control experiments in the lab, we were amused enough to put sharpened pencils
+activity. In addition to experiments in the lab, we were amused enough to put sharpened pencils
 in a little box and carry it around in our pockets as we’d walk around for several days! The pencils would
 audibly rattle around, and took merely 20k steps to start conforming to the expression for the universal
 paraboloid.
@@ -82,8 +82,8 @@ paraboloid.
 </p>
 
 The relation between form and function has long inspired scientists from various disciplines. And it
-is quite compelling to take a functional view of surprising commonalities in Nature. However, the forma-
-tion or development of shapes in biology is both driven by and limited by underlying physical principles
+is quite compelling to take a functional view of surprising commonalities in Nature. However, the formation 
+or development of shapes in biology is both driven by and limited by underlying physical principles
 rather than an end-use function. The emergence of a universal geometry as an inevitable mechanical
 consequence of use, which coincidentally takes the guise of an optimized shape, offers a cautionary tale
 in biomimetics and suggests that temporal stochastic processes may play a more fundamental role in
