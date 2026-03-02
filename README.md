@@ -136,3 +136,10 @@ Link to videos: [Video folder](https://github.com/Jensen-Lab/Universal_Shape_of_
   Email: johnseb@dtu.dk
 
   Web: [john-seb.github.io](https://john-seb.github.io/)
+
+
+----
+
+<p align="center">
+  <img src="./images/vertical2.png" height=480px/>
+</p>
