@@ -38,7 +38,7 @@ a simple yet efficient defence strategy. Remarkably, the commonalities do not en
 most stinger tips may appear to be a regular cone. But zoom in and take a closer look - you’d see a
 rounded tip. Not a sharp “spinose" tip that we may intuitively attribute to a weapon. In a 2024 study,
 Quan et al. (PNAS)[1] reported that regardless of organismic size or the material the stingers are made
-of, the rounded tip follows the expression z ∼ radiusn with n ≈ 2. This means that if one looked at the
+of, the rounded tip follows the expression z ∼ radius^n with n ≈ 2. This means that if one looked at the
 outline of the stinger tip, it would the humble parabola! But why is this so? Quan et al. argued that the
 paraboloid tip shape results from evolutionary pressures selecting the optimal shape suited for piercing
 into soft tissues, without buckling or bending instantly before any damage can be made. However, they
