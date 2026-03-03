@@ -118,7 +118,7 @@ Link to videos: [Video folder](https://github.com/Jensen-Lab/Universal_Shape_of_
 ### Image/Video Credits
 
 + <img src="./images/Gennis.JPG" width=64px/>: Rose Prickes ("Gennis.JPG") - Sabrina Gennis, Technical University of Denmark
-+ **All other Images/Photographs/Conceptual Illustration/Videos**: John Sebastian, Technical University of Denmark
++ All other Images/Photographs/Conceptual Illustration/Videos: John Sebastian, Technical University of Denmark
 
 
 ## Contact
