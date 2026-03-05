@@ -1,6 +1,6 @@
 [//]: # (Universal_Shape_of_Pointed_Tips)
 
-### SciComm resources accompanying 
+### Science communication resources accompanying 
 
 ***"The geometry of Nature's stingers is universal due to stochastic mechanical wear", John Sebastian and Kaare H Jensen, PNAS 2026***.
 
@@ -8,9 +8,9 @@
   <img src="./images/concept_art_vertical2.png" height=480px/>
 </p>  
 
-# Summary
-📰 New findings from our lab!
+New findings from the Biophysics and Fluids section, Department of Physics, Technical University of Denmark. This work was supported by a research grant from VILLUM FONDEN (37475).
 
+# Summary
 Sharp, spine-like structures, or stingers, appear across nature in creatures as diverse as tiny zooplankton, honeybees, elephants, and narwhals. These pointed shapes are often cited as an example of convergent evolution: different species independently arriving at similar solutions. In this case, it’s a simple yet effective defence mechanism - stinging or piercing. The simplest shape one might imagine for such a weapon would be a conical tip, which is the most common choice for man-made axisymmetric polearms. However, biological stingers,  though conical overall, universally possess a specific rounded tip, namely a paraboloid, expressed as z~radius^2.
 
 
