@@ -94,6 +94,9 @@ shaping form in Nature than adaptive narratives alone would imply.
   <img src="./images/tank.jpg" height=360px/>
 </p>
 
+## Acknowledgements
+This work was supported by a research grant from VILLUM FONDEN (37475).
+
 ## References
 
 [1] Quan, H.; Liang, X.; Zhang, X.; Meyers, M. A.; McMeeking, R. M.; Arzt, E. Proceedings of the National Academy of Sciences 2024, 121, e2316320121.
