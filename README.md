@@ -4,6 +4,8 @@
 
 ***"The geometry of Nature's stingers is universal due to stochastic mechanical wear"***, John Sebastian and Kaare H Jensen, Proceedings of the National Academy of Sciences (2026)
 
+Open access link to the paper: [https://doi.org/10.1073/pnas.2526098123](https://doi.org/10.1073/pnas.2526098123)
+
 <p align="center">
   <img src="./images/concept_art_vertical2.png" height=480px/>
 </p>  
